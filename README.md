@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Ayush Anand</h1>
+<h3 align="center">I am a pasionate problem solver</h3>
+
+
+- 🔭 I’m currently working on **ML/AI**
+- 🌱 I’m currently learning **React**
+- 👯 I’m looking to collaborate on **C++**
+- 🤝 I’m looking for help with **WEB Dev**
+- 💬 Ask me about **DBMS , SQL**
