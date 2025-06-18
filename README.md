@@ -1,6 +1,6 @@
 # Hi there, I'm Ayush 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=radical" alt="Ayush's GitHub stats" width="400" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AyUsH-AnAnD-17&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=radical" alt="Ayush's GitHub stats" width="400" />
 
 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🧠 Problem Solver
 
@@ -52,4 +52,6 @@ I'm a passionate developer with a strong foundation in backend systems, frontend
 
 ---
 
-> ""
+> **"Success doesn’t come from what you do occasionally, it comes from what you do consistently.  
+> Discipline turns talent into excellence, and perseverance makes it unstoppable."**
+
